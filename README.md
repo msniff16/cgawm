@@ -10,7 +10,15 @@ Google Street View Treks: follow amazing journeys through some of the worlds mos
 
 Odyssey JS: create animated stories with markdown: http://cartodb.github.io/odyssey.js/documentation/
 
+* Examples
+  * Presentation style: http://bl.ocks.org/anonymous/raw/92f40d9e6bf8de169fe4/
+  * Torque style: http://bl.ocks.org/anonymous/raw/7d67c4ef3348192da613/
+
 MapBox: Easily create beautiful maps with OSM layers: https://www.mapbox.com/
+
+* Examples
+  * GeoJSON to vector styling: https://www.mapbox.com/mapbox-studio/source-quickstart/
+  * Basic styling rules for selectors: https://www.mapbox.com/mapbox-studio/styling-selectors/
 
 CartoDB
 
@@ -21,7 +29,7 @@ CartoDB
   * tablemanager
   *openlayers
   * qgis2leaf
-  * Export to OpenLayers 3 
+  * Export to OpenLayers 3
 * GeoServer
   * hosting layers for WMS
 * web mapping utils
@@ -50,5 +58,5 @@ CartoDB
      * geopaparazzi
   * mobile data - human and animal movement
     * analyze own collected
-    * analyze larger existing datasets 
+    * analyze larger existing datasets
 
