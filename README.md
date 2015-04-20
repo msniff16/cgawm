@@ -1,5 +1,5 @@
 # Spatial Research from the W&M CGA Lab
-Research from the CGA lab at W&amp;M: http://cgawm.com
+Dynamically animate geoJSON files: http://cgawm.com
 
 ## Cool Projects
 Hyperlapse: Lets you create gorgoeous google street view animations
