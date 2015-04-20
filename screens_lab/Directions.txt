@@ -1,0 +1,26 @@
+Apps
+
+1. zoom into current location
+
+2. drop pins to draw a polygon on map
+
+3. save it in top right
+
+4. open up myTracks to track location in background as you try to follow the shape you drew with iGis
+
+5. when done, stop tracking and save track
+
+6. export track by clicking gone folder icon and then clicking on the track you saved. next hit the information button in top right while on the map screen and then on the following screen hit the bow with the arrow in the top left. After this, hit the same icon in the top right and mail the file to yourself.
+
+Mapbox
+
+1. Sign up on front page (straight forward)
+
+2. download map box studio here: https://www.mapbox.com/mapbox-studio/#darwin to start making your own style
+
+3. create new project from studio (style project, not source)
+
+4. Edit style and export by uploading to mapbox after saving it
+
+5. In mapbox on the web, start a new project with new style as a layer (styles tab -> click on style you just uploaded -> start new project)
+
